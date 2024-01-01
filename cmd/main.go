@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("Hello!")
-	testuuid := uuid.NewRandow()
+	testuuid := uuid.NewRandom()
 	fmt.Println(testuuid)
 }

@@ -1,4 +1,4 @@
-module go-homework
+module dododo
 
 go 1.20
 
