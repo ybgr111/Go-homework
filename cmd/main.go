@@ -11,6 +11,7 @@ func main() {
 	fmt.Println("Hello!")
 
 	testuuid := uuid.NewRandom()
+
 	fmt.Println(testuuid)
 	fmt.Println(testuuid)
 }
